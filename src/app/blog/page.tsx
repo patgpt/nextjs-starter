@@ -94,7 +94,7 @@ export default function BlogPage() {
               </div>
               <Link
                 href={`/blog/${featuredPost.slug}`}
-                className="btn btn-primary mt-6 w-fit"
+                className="btn btn-primary mt-6 w-fit rounded-3xl"
               >
                 Read article
                 <ArrowRight className="h-4 w-4" />

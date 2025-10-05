@@ -53,10 +53,6 @@ export function ThemeToggle() {
           <motion.div
             layoutId="theme-toggle-indicator"
             className="absolute inset-y-1 rounded-full bg-base-200/80 shadow-inner"
-            style={{
-              translate: "var(--segment-group-indicator-translate-x, 0) var(--segment-group-indicator-translate-y, 0)",
-              width: "var(--segment-group-indicator-width, auto)",
-            }}
             transition={{ type: "spring", stiffness: 360, damping: 26 }}
           />
         </SegmentGroup.Indicator>

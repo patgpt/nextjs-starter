@@ -167,14 +167,14 @@ export default function Home() {
             <div className="flex flex-col gap-3 sm:flex-row">
               <Link
                 href="/blog"
-                className="btn btn-primary text-sm font-semibold uppercase tracking-wide"
+                className="btn btn-primary rounded-3xl text-sm font-semibold uppercase tracking-wide"
               >
                 Explore insights
                 <ArrowRight className="h-4 w-4" />
               </Link>
               <Link
                 href="/#contact"
-                className="btn btn-outline text-sm font-semibold uppercase tracking-wide"
+                className="btn btn-outline rounded-3xl text-sm font-semibold uppercase tracking-wide"
               >
                 Talk to an architect
               </Link>
@@ -342,7 +342,7 @@ export default function Home() {
                 on-call wellbeing, and harnessing AI responsibly in production.
               </p>
             </div>
-            <Link href="/blog" className="btn btn-outline">
+            <Link href="/blog" className="btn btn-outline rounded-3xl">
               View all articles
             </Link>
           </MotionBox>
@@ -444,7 +444,7 @@ export default function Home() {
                   <option>Compliance &amp; governance</option>
                 </select>
               </div>
-              <button type="submit" className="btn btn-primary">
+              <button type="submit" className="btn btn-primary rounded-3xl">
                 Schedule discovery
               </button>
             </form>

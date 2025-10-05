@@ -50,7 +50,7 @@ export default async function BlogPostPage({ params }: PageProps) {
         <div className="relative mx-auto w-full max-w-4xl px-4 py-16 sm:px-6">
           <Link
             href="/blog"
-            className="btn btn-ghost btn-sm mb-8 w-fit gap-2 text-sm"
+            className="btn btn-ghost btn-sm mb-8 w-fit gap-2 rounded-3xl text-sm"
           >
             <ArrowLeft className="h-4 w-4" /> Back to all insights
           </Link>

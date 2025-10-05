@@ -49,7 +49,7 @@ export function Header() {
             <Link
               key={item.href}
               href={item.href}
-              className="rounded-full px-4 py-2 text-sm font-medium text-base-content/80 transition hover:text-base-content focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/80"
+              className="inline-flex items-center justify-center rounded-full px-4 py-2 text-sm font-medium text-base-content/80 transition-all duration-200 hover:-translate-y-0.5 hover:bg-base-200/60 hover:text-base-content focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/80 active:scale-95"
             >
               {item.label}
             </Link>
@@ -60,7 +60,7 @@ export function Header() {
           <ThemeToggle />
           <Link
             href="/#contact"
-            className="btn btn-primary hidden text-sm font-semibold normal-case md:inline-flex"
+            className="btn btn-primary hidden rounded-3xl text-sm font-semibold normal-case md:inline-flex"
           >
             Book a demo
           </Link>

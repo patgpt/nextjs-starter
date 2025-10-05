@@ -73,7 +73,7 @@ export function MobileNav({ navItems }: MobileNavProps) {
                       <Dialog.CloseTrigger asChild key={item.href}>
                         <Link
                           href={item.href}
-                          className="flex items-center justify-between rounded-xl px-4 py-3 text-base font-medium transition hover:bg-base-200/80"
+                          className="flex items-center justify-between rounded-3xl px-4 py-3 text-base font-medium transition-all duration-200 hover:-translate-y-0.5 hover:bg-base-200/80"
                         >
                           <span>{item.label}</span>
                         </Link>
