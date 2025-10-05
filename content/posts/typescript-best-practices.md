@@ -213,3 +213,4 @@ type Route = typeof routes[number]; // '/' | '/about' | '/contact'
 Following these TypeScript best practices will help you build more maintainable, scalable, and type-safe applications. Remember that TypeScript is a tool to help you catch errors early and improve code quality, but it's not a substitute for good software engineering practices.
 
 The key is to find the right balance between type safety and developer productivity for your specific use case.
+
