@@ -1,6 +1,26 @@
 {
   "name": "nextjs-starter",
   "version": "0.1.0",
+  "description": "A modern Next.js starter template with markdown-driven content, DaisyUI styling, and TypeScript support",
+  "author": "Patrick Kelly <@patgpt>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patgpt/nextjs-starter.git"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "daisyui",
+    "markdown",
+    "velite",
+    "blog",
+    "starter",
+    "template"
+  ],
+  "homepage": "https://github.com/patgpt/nextjs-starter#readme",
   "private": true,
   "scripts": {
     "dev": "velite && next dev --turbopack",

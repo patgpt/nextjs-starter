@@ -17,34 +17,37 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Lumosphere Technologies",
-    template: "%s | Lumosphere Technologies",
+    default: "Next.js Starter",
+    template: "%s | Next.js Starter",
   },
   description:
-    "Lumosphere Technologies builds AI-powered platforms that help teams ship reliable software faster through resilient cloud infrastructure and actionable analytics.",
+    "A modern Next.js starter template with markdown-driven content management, DaisyUI styling, and TypeScript support. Perfect for blogs, portfolios, and content-driven websites.",
   keywords: [
-    "AI platform",
-    "cloud infrastructure",
-    "observability",
-    "developer tooling",
-    "Next.js",
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "daisyui",
+    "markdown",
+    "blog",
+    "starter template",
   ],
   openGraph: {
-    title: "Lumosphere Technologies",
+    title: "Next.js Starter",
     description:
-      "AI-powered infrastructure and developer experience platform for modern product teams.",
-    url: "https://lumosphere.example.com",
-    siteName: "Lumosphere Technologies",
+      "A modern Next.js starter template with markdown-driven content management, DaisyUI styling, and TypeScript support.",
+    url: "https://nextjs-starter.example.com",
+    siteName: "Next.js Starter",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Lumosphere Technologies",
+    title: "Next.js Starter",
     description:
-      "AI-powered infrastructure and developer experience platform for modern product teams.",
+      "A modern Next.js starter template with markdown-driven content management, DaisyUI styling, and TypeScript support.",
   },
-  metadataBase: new URL("https://lumosphere.example.com"),
+  metadataBase: new URL("https://nextjs-starter.example.com"),
 };
 
 export const viewport: Viewport = {

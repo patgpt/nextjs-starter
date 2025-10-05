@@ -3,6 +3,7 @@
 import { SegmentGroup } from "@ark-ui/react/segment-group";
 import { Monitor, Moon, Sun } from "lucide-react";
 import { motion } from "motion/react";
+import type React from "react";
 import type { ComponentProps } from "react";
 import { useTheme } from "./theme-context";
 
@@ -14,7 +15,7 @@ const THEME_OPTIONS: Array<{
   value: ThemeValue;
   label: string;
   description: string;
-  icon: (props: IconProps) => JSX.Element;
+  icon: (props: IconProps) => React.JSX.Element;
 }> = [
   {
     value: "light",

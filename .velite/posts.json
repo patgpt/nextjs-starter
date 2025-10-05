@@ -7,7 +7,13 @@
     "draft": false,
     "featured": true,
     "category": "tutorial",
-    "tags": ["nextjs", "velite", "web-development", "react", "typescript"],
+    "tags": [
+      "nextjs",
+      "velite",
+      "web-development",
+      "react",
+      "typescript"
+    ],
     "metadata": {
       "readingTime": 2,
       "wordCount": 510
@@ -23,7 +29,13 @@
     "draft": false,
     "featured": false,
     "category": "tutorial",
-    "tags": ["react", "performance", "optimization", "hooks", "rendering"],
+    "tags": [
+      "react",
+      "performance",
+      "optimization",
+      "hooks",
+      "rendering"
+    ],
     "metadata": {
       "readingTime": 2,
       "wordCount": 645
@@ -39,7 +51,12 @@
     "draft": false,
     "featured": false,
     "category": "guide",
-    "tags": ["typescript", "best-practices", "development", "code-quality"],
+    "tags": [
+      "typescript",
+      "best-practices",
+      "development",
+      "code-quality"
+    ],
     "metadata": {
       "readingTime": 2,
       "wordCount": 494
@@ -55,7 +72,12 @@
     "draft": false,
     "featured": true,
     "category": "tutorial",
-    "tags": ["velite", "nextjs", "content", "markdown"],
+    "tags": [
+      "velite",
+      "nextjs",
+      "content",
+      "markdown"
+    ],
     "metadata": {
       "readingTime": 1,
       "wordCount": 164

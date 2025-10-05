@@ -4,9 +4,9 @@ import Link from "next/link";
 import { MotionBox } from "../components/motion-box";
 
 export const metadata = {
-  title: "Insights",
+  title: "Blog",
   description:
-    "Latest articles, deep dives, and platform updates from Lumosphere.",
+    "Latest articles, tutorials, and insights from our content-driven website.",
 };
 
 export default function BlogPage() {
@@ -30,15 +30,15 @@ export default function BlogPage() {
         <div className="relative mx-auto flex w-full max-w-6xl flex-col gap-8 px-4 py-20 sm:px-6">
           <MotionBox className="space-y-4">
             <span className="badge badge-outline border-primary/40 text-primary">
-              Lumosphere Insights
+              Latest Articles
             </span>
             <h1 className="text-4xl font-bold text-base-content sm:text-5xl">
-              Stories, playbooks, and research for resilient engineering teams
+              Discover insights, tutorials, and stories
             </h1>
             <p className="max-w-3xl text-lg text-base-content/70">
-              Learn how leading platform and SRE teams use AI-driven
-              observability, workflow automation, and actionable analytics to
-              deliver reliable customer experiences.
+              Explore our collection of articles covering web development,
+              technology trends, and creative projects. From beginner guides to
+              advanced techniques, find content that inspires and informs.
             </p>
           </MotionBox>
           <MotionBox
@@ -103,12 +103,12 @@ export default function BlogPage() {
             <div className="md:col-span-2">
               <div className="rounded-2xl border border-dashed border-primary/40 bg-primary/5 p-6 text-sm text-base-content/70">
                 <p>
-                  Dive deep into how Lumosphere's AI-first observability stack
-                  helped cut incident response time by 63% for a
-                  mission-critical payments platform.
+                  Discover the latest trends in web development, learn new
+                  techniques, and explore creative projects that push the
+                  boundaries of what's possible on the modern web.
                 </p>
                 <p className="mt-4 text-xs uppercase tracking-wide text-primary">
-                  Case study • Platform resiliency
+                  Featured • Web Development
                 </p>
               </div>
             </div>
