@@ -1,0 +1,19 @@
+[
+  {
+    "title": "John Doe",
+    "slug": "john-doe",
+    "bio": "Full-stack developer passionate about modern web technologies and open source.",
+    "social": {
+      "twitter": "johndoe",
+      "github": "johndoe",
+      "linkedin": "john-doe-dev",
+      "website": "https://johndoe.dev"
+    },
+    "metadata": {
+      "readingTime": 1,
+      "wordCount": 137
+    },
+    "excerpt": "John Doe\nHi! I'm John, a full-stack developer with over 8 years of experience building web applications.\nAbout Me\nI specialize in React, Next.js, and Node.js development. I'm particularly passionate about:\n\nPerformance Optimization: Making web apps blazingly f",
+    "content": "<h1>John Doe</h1>\n<p>Hi! I'm John, a full-stack developer with over 8 years of experience building web applications.</p>\n<h2>About Me</h2>\n<p>I specialize in React, Next.js, and Node.js development. I'm particularly passionate about:</p>\n<ul>\n<li><strong>Performance Optimization</strong>: Making web apps blazingly fast</li>\n<li><strong>Developer Experience</strong>: Building tools that make development enjoyable</li>\n<li><strong>Open Source</strong>: Contributing to projects that help the community</li>\n<li><strong>Modern Web Standards</strong>: Using the latest web technologies</li>\n</ul>\n<h2>Experience</h2>\n<ul>\n<li>Senior Frontend Developer at TechCorp (2020-Present)</li>\n<li>Full Stack Developer at StartupXYZ (2018-2020)</li>\n<li>Web Developer at Digital Agency (2016-2018)</li>\n</ul>\n<h2>Skills</h2>\n<p><strong>Frontend</strong>: React, Next.js, TypeScript, Tailwind CSS\n<strong>Backend</strong>: Node.js, Python, PostgreSQL\n<strong>Tools</strong>: Git, Docker, AWS, Vercel\n<strong>Content</strong>: Velite, MDX, Static Site Generation</p>\n<p>When I'm not coding, you can find me hiking, reading tech blogs, or contributing to open source projects.</p>\n<p>Feel free to reach out if you'd like to collaborate on something interesting! 🚀</p>"
+  }
+]

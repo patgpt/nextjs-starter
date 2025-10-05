@@ -1,0 +1,18 @@
+[
+  {
+    "title": "About Us",
+    "slug": "about",
+    "description": "Learn more about our company and mission",
+    "navigation": {
+      "title": "About",
+      "order": 1,
+      "hidden": false
+    },
+    "metadata": {
+      "readingTime": 1,
+      "wordCount": 122
+    },
+    "excerpt": "About Us\nWelcome to our website! We're passionate about creating amazing digital experiences with modern web technologies.\nOur Mission\nTo build fast, accessible, and beautiful web applications that make a difference in people's lives.\nWhat We Do\n\nWeb Developme",
+    "content": "<h1>About Us</h1>\n<p>Welcome to our website! We're passionate about creating amazing digital experiences with modern web technologies.</p>\n<h2>Our Mission</h2>\n<p>To build fast, accessible, and beautiful web applications that make a difference in people's lives.</p>\n<h2>What We Do</h2>\n<ul>\n<li><strong>Web Development</strong>: Modern Next.js applications</li>\n<li><strong>Content Management</strong>: Velite-powered static sites</li>\n<li><strong>Performance Optimization</strong>: Fast, scalable solutions</li>\n<li><strong>User Experience</strong>: Accessible and intuitive interfaces</li>\n</ul>\n<h2>Technology Stack</h2>\n<p>We use cutting-edge technologies to deliver exceptional results:</p>\n<ul>\n<li><strong>Next.js</strong> - React framework for production</li>\n<li><strong>Velite</strong> - Static site generation and content management</li>\n<li><strong>Tailwind CSS</strong> - Utility-first CSS framework</li>\n<li><strong>TypeScript</strong> - Type-safe JavaScript development</li>\n<li><strong>Zod</strong> - Schema validation and type inference</li>\n</ul>\n<h2>Get in Touch</h2>\n<p>Ready to start your next project? We'd love to hear from you!</p>\n<p>Contact us at <a href=\"mailto:hello@example.com\">hello@example.com</a></p>"
+  }
+]
